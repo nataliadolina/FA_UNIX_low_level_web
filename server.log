@@ -1,0 +1,556 @@
+05-Jan-22 20:21:58 - SERVER CONNECTED USING SETTINGS - HOST: localhost, PORT: 80
+05-Jan-22 20:22:28 - CONNECTION WITH <socket.socket fd=404, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 54303)>
+05-Jan-22 20:22:28 - CONNECTION WITH <socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 53234)>
+05-Jan-22 20:22:28 - CONNECTION WITH <socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 52917)>
+06-Jan-22 16:08:09 - SERVER CONNECTED USING SETTINGS - HOST: localhost, PORT: 80
+06-Jan-22 16:08:25 - CONNECTION WITH <socket.socket fd=504, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 64872)>
+06-Jan-22 16:08:25 - CONNECTION WITH <socket.socket fd=516, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 63891)>
+06-Jan-22 16:08:26 - CONNECTION WITH <socket.socket fd=556, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59262)>
+06-Jan-22 16:08:35 - CONNECTION WITH <socket.socket fd=548, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 65146)>
+06-Jan-22 16:08:40 - CONNECTION WITH <socket.socket fd=144, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 55228)>
+06-Jan-22 16:08:40 - CONNECTION WITH <socket.socket fd=556, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59815)>
+06-Jan-22 16:08:41 - CONNECTION WITH <socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 49815)>
+06-Jan-22 16:24:37 - SERVER CONNECTED USING SETTINGS - HOST: localhost, PORT: 80
+06-Jan-22 16:24:37 - CONNECTION WITH <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59749)>
+06-Jan-22 16:24:37 - CONNECTION WITH <socket.socket fd=780, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 49219)>
+06-Jan-22 16:25:03 - SERVER CONNECTED USING SETTINGS - HOST: localhost, PORT: 80
+06-Jan-22 16:25:11 - CONNECTION WITH <socket.socket fd=932, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 54421)>
+06-Jan-22 16:25:11 - CONNECTION WITH <socket.socket fd=932, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 54421)>
+06-Jan-22 16:25:11 - CONNECTION WITH <socket.socket fd=828, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 54004)>
+06-Jan-22 16:27:20 - SERVER CONNECTED USING SETTINGS - HOST: localhost, PORT: 80
+06-Jan-22 16:27:23 - CONNECTION WITH <socket.socket fd=392, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58290)>
+06-Jan-22 16:27:23 - SENT RESPONSE 
+06-Jan-22 16:27:23 - CONNECTION WITH <socket.socket fd=412, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80)>
+06-Jan-22 16:27:24 - CONNECTION WITH <socket.socket fd=372, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 54089)>
+06-Jan-22 16:27:24 - SENT RESPONSE 
+06-Jan-22 16:27:25 - CONNECTION WITH <socket.socket fd=412, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 53851)>
+06-Jan-22 16:27:25 - SENT RESPONSE 
+06-Jan-22 16:34:14 - SERVER CONNECTED USING SETTINGS - HOST: localhost, PORT: 80
+06-Jan-22 16:34:47 - CONNECTION WITH <socket.socket fd=384, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 56905)>
+06-Jan-22 16:35:36 - SERVER CONNECTED USING SETTINGS - HOST: localhost, PORT: 80
+06-Jan-22 16:35:41 - CONNECTION WITH <socket.socket fd=404, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 61958)>
+06-Jan-22 16:35:41 - SENT RESPONSE 
+06-Jan-22 16:35:41 - CONNECTION WITH <socket.socket fd=416, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 53624)>
+06-Jan-22 16:35:41 - CONNECTION WITH <socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 50496)>
+06-Jan-22 16:35:42 - SENT RESPONSE 
+06-Jan-22 16:35:42 - CONNECTION WITH <socket.socket fd=424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 61294)>
+06-Jan-22 16:35:42 - SENT RESPONSE 
+06-Jan-22 16:35:57 - SERVER CONNECTED USING SETTINGS - HOST: localhost, PORT: 80
+06-Jan-22 16:36:00 - CONNECTION WITH <socket.socket fd=492, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 62879)>
+06-Jan-22 16:36:00 - SENT RESPONSE 
+06-Jan-22 16:36:00 - CONNECTION WITH <socket.socket fd=500, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 52534)>
+06-Jan-22 16:36:01 - CONNECTION WITH <socket.socket fd=516, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 65359)>
+06-Jan-22 16:36:25 - SENT RESPONSE 
+06-Jan-22 16:36:25 - CONNECTION WITH <socket.socket fd=340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 50111)>
+06-Jan-22 16:36:25 - SENT RESPONSE 
+06-Jan-22 16:36:26 - CONNECTION WITH <socket.socket fd=532, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 51426)>
+06-Jan-22 16:36:26 - SENT RESPONSE 
+06-Jan-22 16:36:26 - CONNECTION WITH <socket.socket fd=520, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 60265)>
+06-Jan-22 16:36:26 - CONNECTION WITH <socket.socket fd=560, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58115)>
+06-Jan-22 16:37:38 - SENT RESPONSE 
+11-Jan-22 21:22:25 - SERVER CONNECTED USING SETTINGS - HOST: localhost, PORT: 80
+11-Jan-22 21:22:37 - SERVER IS STARTING ON 80
+11-Jan-22 21:22:47 - CONNECTION WITH <socket.socket fd=520, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 61985)>
+11-Jan-22 21:22:47 - favicon.ico - 127.0.0.1 - 403 FORBIDDEN
+11-Jan-22 21:22:47 - SENT RESPONSE HTTP/1.1 403 FORBIDDEN
+Content-Type:
+Date: Tue Jan 11 21:22:47 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 21:22:47 - CONNECTION WITH <socket.socket fd=532, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 51440)>
+11-Jan-22 21:22:54 - CONNECTION WITH <socket.socket fd=308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 51561)>
+11-Jan-22 21:22:54 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:22:54 - CONNECTION WITH <socket.socket fd=368, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58885)>
+11-Jan-22 21:22:54 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 21:22:54 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 21:22:54 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 21:22:55 - CONNECTION WITH <socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 55051)>
+11-Jan-22 21:23:05 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:23:05 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 21:23:05 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 21:23:05 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 21:23:50 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:23:50 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 21:23:50 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 21:23:50 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 21:23:50 - CONNECTION WITH <socket.socket fd=372, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 62334)>
+11-Jan-22 21:23:51 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:23:51 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 21:23:51 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 21:23:51 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 21:24:09 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:24:09 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 21:24:09 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 21:24:09 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 21:24:09 - CONNECTION WITH <socket.socket fd=516, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59918)>
+11-Jan-22 21:25:10 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:25:10 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 21:25:10 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 21:25:10 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 21:37:42 - SERVER IS STARTING ON 80
+11-Jan-22 21:38:25 - CONNECTION WITH <socket.socket fd=496, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 57770)>
+11-Jan-22 21:38:25 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:38:25 - CONNECTION WITH <socket.socket fd=504, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 56621)>
+11-Jan-22 21:38:25 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 21:38:25 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 21:38:25 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 21:38:26 - CONNECTION WITH <socket.socket fd=512, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 62403)>
+11-Jan-22 21:38:29 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:38:29 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 21:38:29 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 21:38:29 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 21:39:26 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:39:26 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 21:39:26 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 21:39:26 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 21:39:55 - SERVER IS STARTING ON 8080
+11-Jan-22 21:43:23 - SERVER IS STARTING ON 80
+11-Jan-22 21:44:14 - CONNECTION WITH <socket.socket fd=1420, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 50665)>
+11-Jan-22 21:44:14 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:44:14 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 21:44:14 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 21:44:14 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 21:44:20 - CONNECTION WITH <socket.socket fd=1532, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 60601)>
+11-Jan-22 21:44:52 - SERVER IS STARTING ON 80
+11-Jan-22 21:44:58 - SERVER IS STARTING ON 80
+11-Jan-22 21:45:16 - CONNECTION WITH <socket.socket fd=952, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 55953)>
+11-Jan-22 21:46:18 - CONNECTION WITH <socket.socket fd=1144, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 51551)>
+11-Jan-22 21:47:48 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:47:49 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 21:48:56 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 21:47:50 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 21:49:11 - CONNECTION WITH <socket.socket fd=932, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 62499)>
+11-Jan-22 21:50:40 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:51:38 - CONNECTION WITH <socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59654)>
+11-Jan-22 21:52:14 - SERVER IS STARTING ON 80
+11-Jan-22 21:52:34 - CONNECTION WITH <socket.socket fd=480, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 54614)>
+11-Jan-22 21:52:34 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:52:34 - CONNECTION WITH <socket.socket fd=492, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 52052)>
+11-Jan-22 21:52:34 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 21:52:34 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 21:52:34 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 21:52:35 - CONNECTION WITH <socket.socket fd=524, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 51968)>
+11-Jan-22 21:53:35 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:53:35 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:53:35 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 21:53:35 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 21:53:35 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 21:53:35 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 21:53:35 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 21:53:35 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 21:54:56 - CONNECTION WITH <socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 54360)>
+11-Jan-22 21:54:56 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:54:56 - CONNECTION WITH <socket.socket fd=512, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 60228)>
+11-Jan-22 21:54:56 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 21:54:56 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 21:54:56 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 21:54:56 - CONNECTION WITH <socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 51477)>
+11-Jan-22 21:56:27 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:56:27 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 21:56:27 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 21:56:27 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 21:56:27 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 21:56:27 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 21:56:27 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 21:56:27 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 22:01:15 - CONNECTION WITH <socket.socket fd=344, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58869)>
+11-Jan-22 22:01:29 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 22:01:29 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 22:01:29 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 22:01:29 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 22:01:29 - CONNECTION WITH <socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 57599)>
+11-Jan-22 22:01:30 - CONNECTION WITH <socket.socket fd=344, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 64152)>
+11-Jan-22 22:02:26 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 22:02:26 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 22:02:26 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 22:02:26 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 22:02:32 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 22:02:32 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 22:02:32 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 22:02:32 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 22:02:33 - CONNECTION WITH <socket.socket fd=548, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59836)>
+11-Jan-22 22:02:33 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 22:02:33 - CONNECTION WITH <socket.socket fd=540, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 57575)>
+11-Jan-22 22:02:33 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 22:02:33 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 22:02:33 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 22:02:33 - CONNECTION WITH <socket.socket fd=304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 57473)>
+11-Jan-22 22:03:33 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 22:03:33 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 22:03:33 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 22:03:33 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 22:03:34 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 22:03:34 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 22:03:34 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 22:03:34 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 22:04:49 - CONNECTION WITH <socket.socket fd=476, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 51025)>
+11-Jan-22 22:04:55 - CONNECTION WITH <socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59582)>
+11-Jan-22 22:04:55 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 22:04:55 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 22:04:55 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 22:04:55 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 22:05:00 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 22:05:00 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 22:05:00 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 22:05:00 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 22:05:00 - CONNECTION WITH <socket.socket fd=512, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 53677)>
+11-Jan-22 22:05:15 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 22:05:15 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 22:05:15 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 22:05:15 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 22:05:15 - CONNECTION WITH <socket.socket fd=556, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58861)>
+11-Jan-22 22:06:46 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 22:06:46 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 22:06:46 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 22:06:46 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 22:06:50 - CONNECTION WITH <socket.socket fd=344, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 53135)>
+11-Jan-22 22:06:50 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 22:06:50 - CONNECTION WITH <socket.socket fd=576, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 62828)>
+11-Jan-22 22:06:50 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 22:06:50 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 22:06:50 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 22:06:50 - CONNECTION WITH <socket.socket fd=584, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 52037)>
+11-Jan-22 22:07:50 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 22:07:50 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 22:07:50 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 22:07:50 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+11-Jan-22 22:08:03 - index.html - 127.0.0.1 - 200 OK
+11-Jan-22 22:08:03 - index.html - 127.0.0.1 - 404 NOT FOUND
+11-Jan-22 22:08:03 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Tue Jan 11 22:08:03 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+15-Jan-22 13:01:04 - SERVER IS STARTING ON 80
+15-Jan-22 13:01:12 - CONNECTION WITH <socket.socket fd=68, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 60677)>
+15-Jan-22 13:01:12 - favicon.ico - 127.0.0.1 - 403 FORBIDDEN
+15-Jan-22 13:01:12 - SENT RESPONSE HTTP/1.1 403 FORBIDDEN
+Content-Type:
+Date: Sat Jan 15 13:01:12 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+15-Jan-22 13:01:13 - CONNECTION WITH <socket.socket fd=492, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 62069)>
+15-Jan-22 13:01:15 - CONNECTION WITH <socket.socket fd=508, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 63931)>
+15-Jan-22 13:01:15 - index.html - 127.0.0.1 - 200 OK
+15-Jan-22 13:01:15 - CONNECTION WITH <socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 54349)>
+15-Jan-22 13:01:15 - index.html - 127.0.0.1 - 404 NOT FOUND
+15-Jan-22 13:01:15 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Sat Jan 15 13:01:15 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+15-Jan-22 13:01:15 - CONNECTION WITH <socket.socket fd=516, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 52593)>
+15-Jan-22 13:01:30 - index.html - 127.0.0.1 - 200 OK
+15-Jan-22 13:01:30 - index.html - 127.0.0.1 - 404 NOT FOUND
+15-Jan-22 13:01:30 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Sat Jan 15 13:01:30 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+15-Jan-22 13:01:34 - index.html - 127.0.0.1 - 200 OK
+15-Jan-22 13:01:34 - index.html - 127.0.0.1 - 404 NOT FOUND
+15-Jan-22 13:01:34 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Sat Jan 15 13:01:34 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+15-Jan-22 13:01:35 - CONNECTION WITH <socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 52774)>
+15-Jan-22 13:15:37 - SERVER IS STARTING ON 80
+15-Jan-22 13:16:16 - CONNECTION WITH <socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 52941)>
+15-Jan-22 13:16:16 - index.html - 127.0.0.1 - 200 OK
+15-Jan-22 13:16:16 - CONNECTION WITH <socket.socket fd=504, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 52942)>
+15-Jan-22 13:16:16 - index.html - 127.0.0.1 - 404 NOT FOUND
+15-Jan-22 13:16:16 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Sat Jan 15 13:16:16 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+15-Jan-22 13:16:16 - CONNECTION WITH <socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 52949)>
+15-Jan-22 13:17:02 - index.html - 127.0.0.1 - 200 OK
+15-Jan-22 13:17:02 - index.html - 127.0.0.1 - 404 NOT FOUND
+15-Jan-22 13:17:02 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Sat Jan 15 13:17:02 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+15-Jan-22 13:17:39 - index.html - 127.0.0.1 - 200 OK
+15-Jan-22 13:17:39 - index.html - 127.0.0.1 - 404 NOT FOUND
+15-Jan-22 13:17:39 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Sat Jan 15 13:17:39 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+15-Jan-22 13:17:40 - CONNECTION WITH <socket.socket fd=508, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58172)>
+15-Jan-22 13:17:40 - CONNECTION WITH <socket.socket fd=532, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58173)>
+15-Jan-22 13:17:40 - index.html - 127.0.0.1 - 200 OK
+15-Jan-22 13:17:40 - index.html - 127.0.0.1 - 404 NOT FOUND
+15-Jan-22 13:17:40 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Sat Jan 15 13:17:40 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+15-Jan-22 13:17:40 - CONNECTION WITH <socket.socket fd=540, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58174)>
+15-Jan-22 13:18:08 - SERVER IS STARTING ON 80
+15-Jan-22 13:20:00 - SERVER IS STARTING ON 80
+15-Jan-22 13:20:00 - CONNECTION WITH <socket.socket fd=480, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 63072)>
+15-Jan-22 13:20:00 - index.html - 127.0.0.1 - 200 OK
+15-Jan-22 13:20:00 - CONNECTION WITH <socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 63073)>
+15-Jan-22 13:20:00 - index.html - 127.0.0.1 - 404 NOT FOUND
+15-Jan-22 13:20:00 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Sat Jan 15 13:20:00 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+15-Jan-22 13:20:00 - CONNECTION WITH <socket.socket fd=524, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 63074)>
+15-Jan-22 13:34:27 - SERVER IS STARTING ON 80
+15-Jan-22 13:34:34 - CONNECTION WITH <socket.socket fd=508, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 64028)>
+15-Jan-22 13:34:34 - CONNECTION WITH <socket.socket fd=520, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59977)>
+15-Jan-22 13:34:34 - ['GET', '/', 'HTTP/1.1', 'Host:', 'localhost', 'Connection:', 'keep-alive', 'Cache-Control:', 'max-age=0', 'sec-ch-ua:', '"Chromium";v="94",', '"Yandex";v="21",', '";Not', 'A', 'Brand";v="99"', 'sec-ch-ua-mobile:', '?0', 'sec-ch-ua-platform:', '"Windows"', 'Upgrade-Insecure-Requests:', '1', 'User-Agent:', 'Mozilla/5.0', '(Windows', 'NT', '10.0;', 'Win64;', 'x64)', 'AppleWebKit/537.36', '(KHTML,', 'like', 'Gecko)', 'Chrome/94.0.4606.85', 'YaBrowser/21.11.4.727', 'Yowser/2.5', 'Safari/537.36', 'Accept:', 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site:', 'none', 'Sec-Fetch-Mode:', 'navigate', 'Sec-Fetch-User:', '?1', 'Sec-Fetch-Dest:', 'document', 'Accept-Encoding:', 'gzip,', 'deflate,', 'br', 'Accept-Language:', 'ru,en;q=0.9'] - 127.0.0.1 - 403 FORBIDDEN
+15-Jan-22 13:34:34 - SENT RESPONSE HTTP/1.1 403 FORBIDDEN
+Content-Type:
+Date: Sat Jan 15 13:34:34 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+15-Jan-22 13:34:34 - CONNECTION WITH <socket.socket fd=388, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 49374)>
+15-Jan-22 13:35:36 - index.html - 127.0.0.1 - 200 OK
+15-Jan-22 13:35:36 - index.html - 127.0.0.1 - 200 OK
+15-Jan-22 13:35:36 - index.html - 127.0.0.1 - 404 NOT FOUND
+15-Jan-22 13:35:36 - index.html - 127.0.0.1 - 404 NOT FOUND
+15-Jan-22 13:35:36 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Sat Jan 15 13:35:36 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+15-Jan-22 13:35:36 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:text/html
+Date: Sat Jan 15 13:35:36 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+15-Jan-22 16:28:37 - CONNECTION WITH <socket.socket fd=540, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 54360)>
+15-Jan-22 16:28:37 - CONNECTION WITH <socket.socket fd=396, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 54361)>
+15-Jan-22 16:28:37 - ['GET', '/', 'HTTP/1.1', 'Host:', 'localhost', 'Connection:', 'keep-alive', 'Cache-Control:', 'max-age=0', 'sec-ch-ua:', '"', 'Not;A', 'Brand";v="99",', '"Google', 'Chrome";v="97",', '"Chromium";v="97"', 'sec-ch-ua-mobile:', '?0', 'sec-ch-ua-platform:', '"Windows"', 'Upgrade-Insecure-Requests:', '1', 'User-Agent:', 'Mozilla/5.0', '(Windows', 'NT', '10.0;', 'Win64;', 'x64)', 'AppleWebKit/537.36', '(KHTML,', 'like', 'Gecko)', 'Chrome/97.0.4692.71', 'Safari/537.36', 'Accept:', 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site:', 'cross-site', 'Sec-Fetch-Mode:', 'navigate', 'Sec-Fetch-User:', '?1', 'Sec-Fetch-Dest:', 'document', 'Accept-Encoding:', 'gzip,', 'deflate,', 'br', 'Accept-Language:', 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'] - 127.0.0.1 - 403 FORBIDDEN
+15-Jan-22 16:28:37 - SENT RESPONSE HTTP/1.1 403 FORBIDDEN
+Content-Type:
+Date: Sat Jan 15 16:28:37 2022
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+15-Jan-22 16:28:37 - CONNECTION WITH <socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 54362)>
